@@ -13,15 +13,7 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayAlagappan)](https://github.com/SanjayAlagappan/github-readme-stats)
 
- 
-
-  ### Github stats:
-[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayAlagappan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/SanjayAlagappan/github-readme-stats)
-
-
-
-
-### Profiles :
+ ### Profiles :
     
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/sanjay-a-445966208/" alt="LinkedIn Badge"/>
@@ -29,12 +21,5 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
+  ### Github stats:
+[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayAlagappan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/SanjayAlagappan/github-readme-stats)
