@@ -14,14 +14,13 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayAlagappan)](https://github.com/SanjayAlagappan/github-readme-stats)
 
  
- ### Tools:
- 
-   &nbsp;&nbsp;⚡ Stackblitz.com <br>
-   &nbsp;&nbsp;🟠 Gitpod.io <br>
-   &nbsp;&nbsp;🦄 Glitch.me <br>
 
   ### Github stats:
 [![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayAlagappan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/SanjayAlagappan/github-readme-stats)
+
+
+
+
 
 
 
