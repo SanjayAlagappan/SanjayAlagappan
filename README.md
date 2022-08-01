@@ -20,9 +20,9 @@
  
  ### Tools:
  
-   ⚡ Stackblitz.com
-   🟠 Gitpod.io
-   🦄 Glitch.me
+   ⚡ Stackblitz.com <br>
+   🟠 Gitpod.io <br>
+   🦄 Glitch.me <br>
    
    
   ### Github stats:
