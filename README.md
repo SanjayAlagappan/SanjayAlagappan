@@ -1,7 +1,7 @@
 
 Hey visitor!
 
- 🎓 I'm Sanjay and currently I'm on my final year in Bachelor course  on Information Technology 💻. I love to design pages for the web and obviously a web developer by profession :)
+ 🎓 I'm Sanjay. I love designing web pages✨and a web developer by profession :)
  
  🖥️ I'm currently specializing on building apps with react ⚛️
  
