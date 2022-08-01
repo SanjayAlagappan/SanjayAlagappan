@@ -13,6 +13,10 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayAlagappan)](https://github.com/SanjayAlagappan/github-readme-stats)
 
+  ### Github stats:
+[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayAlagappan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/SanjayAlagappan/github-readme-stats)
+
+
  ### Profiles :
     
 <div id="badges">
@@ -21,10 +25,6 @@
  </a>
  &nbsp; &nbsp;&nbsp;
  <a href="https://twitter.com/SanjayAlagappan">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter Badge"/>
  </a>
 </div>
-
-
-  ### Github stats:
-[![Sanjay's github stats](https://github-readme-stats.vercel.app/api?username=SanjayAlagappan&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/SanjayAlagappan/github-readme-stats)
