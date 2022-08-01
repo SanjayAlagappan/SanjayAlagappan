@@ -25,6 +25,6 @@
  </a>
  &nbsp; &nbsp;&nbsp;
  <a href="https://twitter.com/SanjayAlagappan">
-  <img src="http://i.imgur.com/wWzX9uB.png" alt="Twitter Badge"/>
+  <img src="http://i.imgur.com/wWzX9uB.png" style="background-color:white" alt="Twitter Badge"/>
  </a>
 </div>
