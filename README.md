@@ -6,7 +6,7 @@
  
  🖥️ I'm currently specializing on building apps with react ⚛️
  
- 📚 Apart from that I have alot of interest in books. My favourite one will be the Tuesdays with Morrie.
+ 📚 Furthermore, I have alot of interest in books. My favourite one will be the Tuesdays with Morrie.
  
 
  ### Languages:
